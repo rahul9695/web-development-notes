@@ -114,7 +114,7 @@
 
 ### 30. Reconciliation
 
-- Reconciliation refers to the process in React where the virtual DOM is compared with the previous version to determine
+- React Reconciliation is the process through which React updates the Browser DOM. It makes the DOM updates faster in React. It updates the virtual DOM first and then uses the diffing algorithm to make efficient and optimized updates in the Real DOM.
 
 
 
